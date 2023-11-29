@@ -3,7 +3,7 @@
 // operate correctly IF you manually delete this file.
 [NetConnect]
 EngineName=QB_data_engine_34
-FilePath=C:\Users\Public\Documents\Intuit\QuickBooks\Company Files\group work\ShopifyKE.qbw
+FilePath=C:\Users\PC\OneDrive\Documents\intuit\shopifyKE\shopifyKE\ShopifyKE.qbw
 ServerMode=2
-FileConnectionGuid=79040efbe51a4b0ab21d1c03c26c8c3c
+FileConnectionGuid=
 
