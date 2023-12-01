@@ -3,7 +3,10 @@
 // operate correctly IF you manually delete this file.
 [NetConnect]
 EngineName=QB_data_engine_34
-FilePath=C:\Users\PC\OneDrive\Documents\intuit\shopifyKE\shopifyKE\ShopifyKE.qbw
+FilePath=C:\Users\Nduta\shopifyKE\ShopifyKE.qbw
 ServerMode=2
+FileConnectionGuid=
+
+erMode=2
 FileConnectionGuid=
 
